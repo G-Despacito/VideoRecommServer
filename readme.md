@@ -1,0 +1,1 @@
+This project implemented a video recommendation server and deployed it to a Kubernetes cluster.
